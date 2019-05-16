@@ -1,0 +1,103 @@
+ELECTRONIC ARTS INC. DEVELOPMENT SOFTWARE LICENSE AGREEMENT
+
+Version 1.0
+
+BY USING OR COPYING ANY ELECTRONIC ARTS INC. SOFTWARE, YOU ACCEPT ALL THE
+TERMS AND CONDITIONS OF THIS DEVELOPMENT SOFTWARE LICENSE AGREEMENT (DSLA).
+
+1.  The software (in object and/or source code) (the Software), provided in
+    this package contains proprietary material belonging to Electronic Arts Inc. (EA). 
+
+2.  SIGNED MASTER AGREEMENT REQUIRED.  You must have at least one
+    agreement (such as a development contract, evaluation contract or NDA) in place
+    with EA governing the relationship between the Licensee and EA, signed by
+    authorized persons on both sides. The terms of this DSLA supplement the terms
+    of any underlying agreement (e.g., a Product Development Agreement under which
+    the Software would be considered EA Development Aid). Unless any such
+    underlying agreement specifies exceptions to this DSLA, the terms of this DSLA
+    shall control.
+
+3.  LICENSE.  EA grants you a non-exclusive, non-transferable, non-sub
+    licensable right to use the Software as specified by the terms of this DSLA,
+    and is provided to you for the limited purpose of aiding EA fulfill its
+    business needs, either under contract, or as a partner company or individual
+    working with EA.
+
+4.  RESTRICTIONS.
+
+
+    i.   It is expressly forbidden to use this Software in any way to develop any
+         products that competes with EAs business. This restriction extends to using any
+         other EA tools provided as part of this Software to produce products that
+         compete with EAs business.
+
+    ii.  Unauthorized use or Distribution. You may not provide the Software,
+         either in part or in whole, to any 3rd party unless required to do so under
+         terms of a signed contract with EA, and with the written approval of EA.
+         Approval will generally require that such 3rd parties execute contract(s)
+         and/or NDA(s) with EA accepting these limitations and others at EAs discretion.
+
+    iii. Reverse Engineering. You may not and you agree not to, or to enable
+         others to, decompile, reverse engineer, disassemble, attempt to derive the
+         source code of, decrypt, modify, create derivative works of portions of the
+         Software provided only in object code form, or any part thereof (except as and
+         only to the extent any foregoing restriction is prohibited by applicable law or
+         to the extent as may be permitted by licensing terms governing use of
+         open-sourced components included with the Software). Any attempt to do so is a
+         violation of the rights of EA and its licensors of the Software.
+
+
+5.  3RD PARTY LICENSES.  Some portions of this Software may be provided
+    under other licenses. You are responsible for complying with all such license
+    terms. Details of such licenses, if any, may be found in the accompanying
+    3RDPARTYLICENSES.txt file. Any such licenses do not change the terms of this
+    license as applied to Software that is the sole property of EA. If the rights
+    granted by any such 3rd party licenses are in conflict with the terms of this
+    DSLA, then all rights granted under this DSLA are terminated, and you must
+    inform EA immediately of such conflict.
+
+6.  COMBINATION WITH SOFTWARE UNDER OTHER LICENSES.  Combining this
+    Software with other Software under different license(s), but not provided by
+    EA, does not change your rights with respect to Software provided by EA. This
+    is the case even if you are directed by EA to obtain such Software and create
+    such a combination for use by you. In particular, some tools or server
+    executables intended to be used by you but not distributed to others, may
+    require you to obtain other Software licensed under various terms, including,
+    for example, GPL terms, in order to compile and use the Software. The licenses
+    of such Software do not extend to EA owned Software. If a conflict between this
+    clause and the terms of any such 3rd party Software obtained by you occurs, you
+    must cease activity that causes the conflict and inform EA of the conflict.
+    Failure to do this constitutes a breach of this DSLA, and will result in
+    immediate termination.
+
+7.  NO WARRANTY.  THIS SOFTWARE IS PROVIDED BY ELECTRONIC ARTS AND ITS
+    CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+    LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+    PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL ELECTRONIC ARTS OR ITS
+    CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+    EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT
+    OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+    INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+    CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
+    IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY
+    OF SUCH DAMAGE.
+
+8.  EA OBLIGATIONS.  EA is under no obligations with respect to this
+    Software, except as provided for under any separate contract(s) or NDA(s)
+    between EA and you. This includes, but is not limited to, providing support
+    and/or updates for the Software.
+   
+9.  TERM.  The term of this agreement begins on receipt of this
+    Software, and continues in full force until terminated in accordance with
+    clause 10.
+ 
+10. TERMINATION.  The rights granted under this DSLA will terminate with
+    the termination of any underlying contracts with EA (see clause 3). This DSLA
+    will terminate immediately if you are in breach of the terms of the DSLA. Upon
+    termination, any Software in your possession, custody or control must be
+    immediately returned (if requested by EA) or destroyed and you will provide
+    written confirmation of such destruction. This Section 10 shall survive any
+    termination of this DSLA.
+
+11. GENERAL.  This DSLA may be updated from time to time by EA with
+    additional or different terms.
