@@ -5,6 +5,11 @@ cmake_minimum_required(VERSION 3.1)
 project(EAAssert CXX)
 
 #-------------------------------------------------------------------------------------------
+# Options
+#-------------------------------------------------------------------------------------------
+option(EAASSERT_BUILD_TESTS "Enable generation of build files for tests" OFF)
+
+#-------------------------------------------------------------------------------------------
 # Library definition
 #-------------------------------------------------------------------------------------------
 file(GLOB EAASSERT_SOURCES "source/*.cpp")
@@ -19,6 +24,11 @@ add_definitions(-D_CHAR16T)
 # Export Include Directories
 #-------------------------------------------------------------------------------------------
 target_include_directories(EAAssert PUBLIC include)
+
+
+if(EAASSERT_BUILD_TESTS)
+    add_subdirectory(test)
+endif()
 
 #-------------------------------------------------------------------------------------------
 # Package Dependencies 
