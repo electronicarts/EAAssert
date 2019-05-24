@@ -16,6 +16,13 @@ file(GLOB EAASSERT_SOURCES "source/*.cpp")
 add_library(EAAssert ${EAASSERT_SOURCES})
 
 #-------------------------------------------------------------------------------------------
+# Package Tests
+#-------------------------------------------------------------------------------------------
+if(EAASSERT_BUILD_TESTS)
+    add_subdirectory(test)
+endif()
+
+#-------------------------------------------------------------------------------------------
 # Defines
 #-------------------------------------------------------------------------------------------
 add_definitions(-D_CHAR16T)
@@ -24,11 +31,6 @@ add_definitions(-D_CHAR16T)
 # Export Include Directories
 #-------------------------------------------------------------------------------------------
 target_include_directories(EAAssert PUBLIC include)
-
-
-if(EAASSERT_BUILD_TESTS)
-    add_subdirectory(test)
-endif()
 
 #-------------------------------------------------------------------------------------------
 # Package Dependencies 
