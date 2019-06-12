@@ -21,7 +21,7 @@ Define the major, minor and patch versions.
 #define EAASSERT_VERSION_MINOR       5
 //! This define indicates the patch version number for the filesys package.
 //! \sa EAASSERT_VERSION_PATCH
-#define EAASSERT_VERSION_PATCH       7
+#define EAASSERT_VERSION_PATCH       8
 
 /*!
  * This is a utility macro that users may use to create a single version number
