@@ -7,7 +7,7 @@ EAAssert is a simple and lightweight assert technology.
 
 ## Documentation
 
-Please see [Introduction](https://rawgit.com/electronicarts/EAAssert/master/doc/eaassert.html).
+Please see [Introduction](https://gitcdn.xyz/cdn/electronicarts/EAAssert/e5e181255de2e883dd1f987c78ccc42ac81d3bca/doc/eaassert.html).
 
 
 ## Compiling sources
