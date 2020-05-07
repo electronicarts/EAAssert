@@ -39,8 +39,4 @@ add_definitions(-D_CHAR16T)
 target_include_directories(EAAssert PUBLIC include)
 target_include_directories(EAAssert PRIVATE ../EABase/include/Common)
 
-#-------------------------------------------------------------------------------------------
-# Package Dependencies 
-#-------------------------------------------------------------------------------------------
-target_link_libraries(EAAssert EABase)
 
