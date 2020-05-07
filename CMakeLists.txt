@@ -37,6 +37,7 @@ add_definitions(-D_CHAR16T)
 # Export Include Directories
 #-------------------------------------------------------------------------------------------
 target_include_directories(EAAssert PUBLIC include)
+target_include_directories(EAAssert PRIVATE ../EABase/include/Common)
 
 #-------------------------------------------------------------------------------------------
 # Package Dependencies 
