@@ -2,10 +2,6 @@
 // Copyright (c) Electronic Arts Inc. All rights reserved.
 ///////////////////////////////////////////////////////////////////////////////
 
-#if defined(EA_PRAGMA_ONCE_SUPPORTED)
-	#pragma once // Some compilers (e.g. VC++) benefit significantly from using this. We've measured 3-4% build speed improvements in apps as a result.
-#endif
-
 #ifndef EAASSERT_EAASSERT_H
 #define EAASSERT_EAASSERT_H
 
@@ -41,6 +37,9 @@
 #include "EABase/eabase.h"
 #include <stdarg.h>
 
+#if defined(EA_PRAGMA_ONCE_SUPPORTED)
+	#pragma once // Some compilers (e.g. VC++) benefit significantly from using this. We've measured 3-4% build speed improvements in apps as a result.
+#endif
 
 // The default assert handling mechanism just breaks into the debugger on an assert failure. If you wish to overwrite this 
 // functionality, simply implement the following callback:
